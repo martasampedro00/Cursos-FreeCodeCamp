@@ -3,7 +3,24 @@
 Console.WriteLine("") --> escribe por consola y salto de linea
 Console.Write("")  --> escribe por consola sin salto de linea
 
+Imprimir chat ('a') --> comillas simples
+Imprimir string ("Hola") --> comillas dobles
+Imprimir numero (int) (123) --> sin comillas
+Imprimir numero (float) (0.123) --> sin comillas
+    Añadir f al final para indicar float
+    Añadir m al final para indicar decimal
+    No añadir nada al final para indicar double
+
+Float Type    Precision (numeros después de punto)
+----------------------------
+float         ~6-9 digits
+double        ~15-17 digits
+decimal        28-29 digits
+
+Imprimir bool (true/false) --> sin comillas
 
 
+Tipos int, float, double, decimal, char, string etc.
+Se puede utilizar var para que asuma el tipo al definir una variable.
 
 */
