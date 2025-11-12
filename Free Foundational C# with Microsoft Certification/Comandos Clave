@@ -38,7 +38,12 @@ string firstName = "Bob";
 string greeting = "Hello ";
 Console.WriteLine(greeting + " " + firstName + "!");
 
+DIVISION DE NUMEROS ENTEROS!!
+Importante que ambos dos sean de tipo decimal o al menos uno de ellos.
+Si no se puede convertir poniendo (decimal delante de la variable)
 
-
+int first = 7;
+int second = 5;
+decimal quotient = (decimal)first / (decimal)second;
 
 */
