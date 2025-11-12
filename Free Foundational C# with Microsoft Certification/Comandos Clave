@@ -1,0 +1,9 @@
+/*Comandos claves en C# quese van utilizando
+
+Console.WriteLine("") --> escribe por consola y salto de linea
+Console.Write("")  --> escribe por consola sin salto de linea
+
+
+
+
+*/
