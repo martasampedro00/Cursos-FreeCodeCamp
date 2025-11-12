@@ -23,4 +23,22 @@ Imprimir bool (true/false) --> sin comillas
 Tipos int, float, double, decimal, char, string etc.
 Se puede utilizar var para que asuma el tipo al definir una variable.
 
+\n --> nueva linea
+\t --> tabulación
+\"World\" --> para añadir comillas en string
+\\source\\ --> añadir barra 
+\u --> caracteres Unicode
+
+INTERESANTE !!!!!
+Console.WriteLine(@"    dhsadha/hs/
+                    fjaskjdkas(jej)");  --> mantiene espacios en blanco y caracteres sin necesidad de usar lo anterior
+
+CONCATENAR
+string firstName = "Bob";
+string greeting = "Hello ";
+Console.WriteLine(greeting + " " + firstName + "!");
+
+
+
+
 */
