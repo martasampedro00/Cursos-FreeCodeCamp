@@ -19,7 +19,6 @@ decimal        28-29 digits
 
 Imprimir bool (true/false) --> sin comillas
 
-
 Tipos int, float, double, decimal, char, string etc.
 Se puede utilizar var para que asuma el tipo al definir una variable.
 
@@ -50,5 +49,12 @@ decimal quotient = (decimal)first / (decimal)second;
 
 Random dice = new Random() --> crea clase random (numero aleatorio)
 int roll = dice.Next(1,7) --> numero aleatorio entre 1 y 6
+
+-------------------------------------------------
+
+string message = "The quick brown fox jumps over the lazy dog.";
+bool result = message.Contains("dog");
+
+message.Contains("dog") --> true si contiene string / false si no
 
 */
