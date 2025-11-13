@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Free Foundational C# with Microsoft Certification", "Free Foundational C# with Microsoft Certification", "{6D5657AD-02C2-A081-C861-8185FE51FDC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Free Foundational C# with Microsoft Certification\Matriz\Matriz.csproj", "{41869CAC-FE7F-6000-0A14-97B060A2050D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MejoraTasaRenovacion", "Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\MejoraTasaRenovacion.csproj", "{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "Free Foundational C# with Microsoft Certification\TestProject\TestProject.csproj", "{109E8631-386E-3B47-4ED7-05B53C12C876}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{2CA893CF-3E8E-FA6A-04F9-523440B52B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Free Foundational C# with Microsoft Certification\GuidedProject\Starter\Starter.csproj", "{56304B47-C6D9-3828-34B2-04F48EA76BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41869CAC-FE7F-6000-0A14-97B060A2050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41869CAC-FE7F-6000-0A14-97B060A2050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41869CAC-FE7F-6000-0A14-97B060A2050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41869CAC-FE7F-6000-0A14-97B060A2050D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109E8631-386E-3B47-4ED7-05B53C12C876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109E8631-386E-3B47-4ED7-05B53C12C876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109E8631-386E-3B47-4ED7-05B53C12C876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109E8631-386E-3B47-4ED7-05B53C12C876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56304B47-C6D9-3828-34B2-04F48EA76BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56304B47-C6D9-3828-34B2-04F48EA76BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56304B47-C6D9-3828-34B2-04F48EA76BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56304B47-C6D9-3828-34B2-04F48EA76BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{41869CAC-FE7F-6000-0A14-97B060A2050D} = {6D5657AD-02C2-A081-C861-8185FE51FDC2}
+		{0D0B948B-2ECC-15A1-E0A8-CCABF6EC906C} = {6D5657AD-02C2-A081-C861-8185FE51FDC2}
+		{109E8631-386E-3B47-4ED7-05B53C12C876} = {6D5657AD-02C2-A081-C861-8185FE51FDC2}
+		{2CA893CF-3E8E-FA6A-04F9-523440B52B2D} = {6D5657AD-02C2-A081-C861-8185FE51FDC2}
+		{56304B47-C6D9-3828-34B2-04F48EA76BBB} = {2CA893CF-3E8E-FA6A-04F9-523440B52B2D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3AAA941-337F-4FB1-87D0-4342EB08AAFD}
+	EndGlobalSection
+EndGlobal
