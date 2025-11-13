@@ -57,4 +57,9 @@ bool result = message.Contains("dog");
 
 message.Contains("dog") --> true si contiene string / false si no
 
+-------------------------------------------------
+
+Crear un proyecto comando:
+dotnet new console -o NOMBRE PROYECTO
+
 */

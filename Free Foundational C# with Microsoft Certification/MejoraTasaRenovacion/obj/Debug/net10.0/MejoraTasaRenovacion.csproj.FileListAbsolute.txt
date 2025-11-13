@@ -1,0 +1,15 @@
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\bin\Debug\net10.0\MejoraTasaRenovacion.exe
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\bin\Debug\net10.0\MejoraTasaRenovacion.deps.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\bin\Debug\net10.0\MejoraTasaRenovacion.runtimeconfig.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\bin\Debug\net10.0\MejoraTasaRenovacion.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\bin\Debug\net10.0\MejoraTasaRenovacion.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.AssemblyInfoInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.AssemblyInfo.cs
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.csproj.CoreCompileInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.sourcelink.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\refint\MejoraTasaRenovacion.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\MejoraTasaRenovacion.genruntimeconfig.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\MejoraTasaRenovacion\obj\Debug\net10.0\ref\MejoraTasaRenovacion.dll
