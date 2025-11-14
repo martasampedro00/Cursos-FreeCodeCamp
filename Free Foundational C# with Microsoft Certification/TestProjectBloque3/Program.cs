@@ -62,7 +62,7 @@ Console.WriteLine($"{employeeName}, {title}");*/
 
 // SKU = Stock Keeping Unit. 
 // SKU value format: <product #>-<2-letter color code>-<size code>
-string sku = "01-MN-L";
+/*string sku = "01-MN-L";
 
 string[] product = sku.Split('-');
 
@@ -122,4 +122,31 @@ switch (product[2])
         break;
 }
 
-Console.WriteLine($"Product: {size} {color} {type}");
+Console.WriteLine($"Product: {size} {color} {type}");*/
+
+int monstruo = 10;
+int heroe = 10;
+int turno = 0; //0 heroe // 1 monstruo
+
+do
+{
+    Random dado = new Random();
+    int resta = dado.Next(1,11);
+
+    monstruo -= resta;
+    Console.WriteLine($"El monstruo ha perdido {resta} de vida");
+    Console.WriteLine($"La salud restante del monstruo es {monstruo}");
+
+    if(monstruo <= 0) continue;
+
+    heroe -= resta;
+    Console.WriteLine($"El heroe ha perdido {resta} de vida");
+    Console.WriteLine($"La salud restante del hereo es {heroe}");
+
+
+}while(monstruo > 0 && heroe > 0);
+
+if(monstruo <= 0)
+    Console.WriteLine("Ha ganado el heroe");
+else
+    Console.WriteLine("Ha ganado el monstruo");
