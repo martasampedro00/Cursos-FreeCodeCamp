@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
+      "projectUniqueName": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
       "projectName": "MejoraTasaRenovacion",
-      "projectPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
+      "projectPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
       "packagesPath": "C:\\Users\\martu\\.nuget\\packages\\",
-      "outputPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\obj\\",
+      "outputPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\martu\\AppData\\Roaming\\NuGet\\NuGet.Config"
