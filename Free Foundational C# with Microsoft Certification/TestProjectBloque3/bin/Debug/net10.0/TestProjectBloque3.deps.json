@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TestProjectBloque3/1.0.0": {
+        "runtime": {
+          "TestProjectBloque3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestProjectBloque3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

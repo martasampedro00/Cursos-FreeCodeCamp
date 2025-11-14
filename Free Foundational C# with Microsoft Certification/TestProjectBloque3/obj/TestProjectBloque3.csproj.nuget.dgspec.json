@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj": {}
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj": {}
   },
   "projects": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj": {
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj",
+        "projectUniqueName": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj",
         "projectName": "TestProjectBloque3",
-        "projectPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj",
+        "projectPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\TestProjectBloque3.csproj",
         "packagesPath": "C:\\Users\\martu\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\obj\\",
+        "outputPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\TestProjectBloque3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\martu\\AppData\\Roaming\\NuGet\\NuGet.Config"

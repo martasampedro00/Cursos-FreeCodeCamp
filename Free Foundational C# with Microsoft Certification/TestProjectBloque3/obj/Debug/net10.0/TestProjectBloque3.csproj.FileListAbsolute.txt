@@ -1,0 +1,15 @@
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.AssemblyInfoInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.AssemblyInfo.cs
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.csproj.CoreCompileInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.sourcelink.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\bin\Debug\net10.0\TestProjectBloque3.exe
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\bin\Debug\net10.0\TestProjectBloque3.deps.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\bin\Debug\net10.0\TestProjectBloque3.runtimeconfig.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\bin\Debug\net10.0\TestProjectBloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\bin\Debug\net10.0\TestProjectBloque3.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\refint\TestProjectBloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\TestProjectBloque3.genruntimeconfig.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\TestProjectBloque3\obj\Debug\net10.0\ref\TestProjectBloque3.dll
