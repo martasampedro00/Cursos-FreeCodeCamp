@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj": {}
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj": {}
   },
   "projects": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj": {
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj",
+        "projectUniqueName": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj",
         "projectName": "Matriz",
-        "projectPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj",
+        "projectPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\Matriz.csproj",
         "packagesPath": "C:\\Users\\martu\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\obj\\",
+        "outputPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\Matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\martu\\AppData\\Roaming\\NuGet\\NuGet.Config"

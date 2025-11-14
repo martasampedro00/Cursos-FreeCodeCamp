@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj": {}
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj": {}
   },
   "projects": {
-    "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj": {
+    "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
+        "projectUniqueName": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
         "projectName": "MejoraTasaRenovacion",
-        "projectPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
+        "projectPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\MejoraTasaRenovacion.csproj",
         "packagesPath": "C:\\Users\\martu\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT REPOSITORIOS\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\obj\\",
+        "outputPath": "E:\\PROYECTOS GIT\\Cursos-FreeCodeCamp\\Free Foundational C# with Microsoft Certification\\MejoraTasaRenovacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\martu\\AppData\\Roaming\\NuGet\\NuGet.Config"
