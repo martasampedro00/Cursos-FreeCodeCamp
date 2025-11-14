@@ -28,7 +28,6 @@ int[] emmaScores = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
 int[] loganScores = new int[] { 90, 95, 87, 88, 96, 96 };
 
 int[] studentScores = new int[10];
-
 string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades
@@ -59,8 +58,11 @@ foreach (string name in studentNames)
     else if (currentStudent == "Logan")
         studentScores = loganScores;
 
-    int sumAssignmentScores = 0;
+    int sumAssignmentScoresExam = 0;
+    int sumAssignmentScoresCredit = 0;
 
+    decimal currentStudentGradeExam = 0;
+    decimal currentStudentGradeCredit = 0;
     decimal currentStudentGrade = 0;
 
     int gradedAssignments = 0;
@@ -74,13 +76,21 @@ foreach (string name in studentNames)
         gradedAssignments += 1;
 
         if (gradedAssignments <= examAssignments)
-            sumAssignmentScores += score;
-
+        {
+            sumAssignmentScoresExam += score;
+        }
         else
-            sumAssignmentScores += score / 10;
+        {
+            sumAssignmentScoresCredit += score;
+        }
+            
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    currentStudentGradeExam = (decimal)(sumAssignmentScoresExam) / examAssignments;
+    currentStudentGradeCredit = (decimal)(sumAssignmentScoresCredit) / (gradedAssignments-examAssignments);
+    decimal points = (decimal)(sumAssignmentScoresCredit/10.00)/examAssignments;
+    currentStudentGrade = currentStudentGradeExam + points;
+
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -120,12 +130,8 @@ foreach (string name in studentNames)
 
     else
         currentStudentLetterGrade = "F";
-
-    int examScore = 0;
-    int extraCredit = 0;
-    decimal points = 0;
     
-    Console.WriteLine($"{currentStudent}\t\t{examScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{extraCredit} ({points} pts)");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentGradeExam}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentStudentGradeCredit} ({points} pts)");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)

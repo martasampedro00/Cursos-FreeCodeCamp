@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MejoraTasaRenovacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d130559b1f64459573f0924f06cd35b4780af2fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b20b07b3fcb52cb413e51fefe9cd0f619d17329")]
 [assembly: System.Reflection.AssemblyProductAttribute("MejoraTasaRenovacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MejoraTasaRenovacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
