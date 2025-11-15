@@ -1,0 +1,15 @@
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.AssemblyInfoInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.AssemblyInfo.cs
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.csproj.CoreCompileInputs.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.sourcelink.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\bin\Debug\net10.0\Project3Bloque3.exe
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\bin\Debug\net10.0\Project3Bloque3.deps.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\bin\Debug\net10.0\Project3Bloque3.runtimeconfig.json
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\bin\Debug\net10.0\Project3Bloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\bin\Debug\net10.0\Project3Bloque3.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\refint\Project3Bloque3.dll
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.pdb
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\Project3Bloque3.genruntimeconfig.cache
+E:\PROYECTOS GIT\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\Project3Bloque3\obj\Debug\net10.0\ref\Project3Bloque3.dll
