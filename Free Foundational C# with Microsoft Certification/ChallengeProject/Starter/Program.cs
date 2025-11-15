@@ -18,6 +18,8 @@ This C# console application is designed to:
     Emma:           85.6    B
     Logan:          91.2    A-
 */
+
+///Proyecto Desafio Bloque 2
 int examAssignments = 5;
 
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
