@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GuidedProjectBloque3/1.0.0": {
+        "runtime": {
+          "GuidedProjectBloque3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuidedProjectBloque3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
