@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ChallengeProject2Bloque4/1.0.0": {
+        "runtime": {
+          "ChallengeProject2Bloque4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengeProject2Bloque4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
