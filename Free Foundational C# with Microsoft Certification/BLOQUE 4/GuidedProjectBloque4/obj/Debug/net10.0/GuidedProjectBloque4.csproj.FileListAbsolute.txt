@@ -1,0 +1,15 @@
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\bin\Debug\net10.0\GuidedProjectBloque4.exe
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\bin\Debug\net10.0\GuidedProjectBloque4.deps.json
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\bin\Debug\net10.0\GuidedProjectBloque4.runtimeconfig.json
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\bin\Debug\net10.0\GuidedProjectBloque4.dll
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\bin\Debug\net10.0\GuidedProjectBloque4.pdb
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.AssemblyInfoInputs.cache
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.AssemblyInfo.cs
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.csproj.CoreCompileInputs.cache
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.sourcelink.json
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.dll
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\refint\GuidedProjectBloque4.dll
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.pdb
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\GuidedProjectBloque4.genruntimeconfig.cache
+D:\GIT REPOSITORIOS\C# FreeCode\Cursos-FreeCodeCamp\Free Foundational C# with Microsoft Certification\BLOQUE 4\GuidedProjectBloque4\obj\Debug\net10.0\ref\GuidedProjectBloque4.dll
